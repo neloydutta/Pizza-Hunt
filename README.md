@@ -1,0 +1,2 @@
+# Pizza-Hunt
+An Endless-Runner-Platform game created using Construct2. Game-Play requires player to run endlessly by stepping only on platforms while also maintaining proper stamina. To maintain player's stamina, pizza slices appearing must be eaten wisely such that you neither starve nor over-eat. Starving (Weight reduced to Zero ); Over-Eating (Weight increasing over Max-Permitted-Level) or Falling off the platform results in Game-Over.
